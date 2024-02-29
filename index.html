@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  
+
+    <body style="background-color:#242424;margin-top:0px;margin-left:0px;">
+      <script src="script.js"></script>
+    </body>
+    <center>
+      <h1 style="color:blue">choose</h1>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTvUwwIGbRXkOeapsbK5N2Y-zU0AK-TXRNnBGfTf3BVAmh0Q/viewform?embedded=true" width="640" height="694" frameborder="0" marginheight="0" marginwidth="0">Yükleniyor…</iframe>
+      <script src="script.js"></script>
+</body>
+
+</html>
